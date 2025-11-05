@@ -52,4 +52,5 @@ A beginner-friendly SQL project focusing on **retail sales data exploration, cle
 ---
 
 
-## 📂 Repository Structure
+## ✍️ Author
+**Anisha Kumari**
